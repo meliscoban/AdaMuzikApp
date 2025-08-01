@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\melis\\Desktop\\AdaMuzikApp\\AdaMuzik\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96E26126-B008-435B-BE06-BD7104ACCDAF}|AdaMuzik.csproj|c:\\users\\melis\\desktop\\adamuzikapp\\adamuzik\\services\\sanatciservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96E26126-B008-435B-BE06-BD7104ACCDAF}|AdaMuzik.csproj|solutionrelative:services\\sanatciservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E26126-B008-435B-BE06-BD7104ACCDAF}|AdaMuzik.csproj|c:\\users\\melis\\desktop\\adamuzikapp\\adamuzik\\services\\calmalistesiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96E26126-B008-435B-BE06-BD7104ACCDAF}|AdaMuzik.csproj|solutionrelative:services\\calmalistesiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalmaListesiService.cs",
+              "DocumentMoniker": "C:\\Users\\melis\\Desktop\\AdaMuzikApp\\AdaMuzik\\Services\\CalmaListesiService.cs",
+              "RelativeDocumentMoniker": "Services\\CalmaListesiService.cs",
+              "ToolTip": "C:\\Users\\melis\\Desktop\\AdaMuzikApp\\AdaMuzik\\Services\\CalmaListesiService.cs",
+              "RelativeToolTip": "Services\\CalmaListesiService.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowEkAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T11:53:41.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SanatciService.cs",
+              "DocumentMoniker": "C:\\Users\\melis\\Desktop\\AdaMuzikApp\\AdaMuzik\\Services\\SanatciService.cs",
+              "RelativeDocumentMoniker": "Services\\SanatciService.cs",
+              "ToolTip": "C:\\Users\\melis\\Desktop\\AdaMuzikApp\\AdaMuzik\\Services\\SanatciService.cs",
+              "RelativeToolTip": "Services\\SanatciService.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowDkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T11:12:09.361Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

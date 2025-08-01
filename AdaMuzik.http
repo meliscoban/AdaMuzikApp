@@ -1,0 +1,6 @@
+@AdaMuzik_HostAddress = http://localhost:5072
+
+GET {{AdaMuzik_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
