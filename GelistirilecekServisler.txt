@@ -1,0 +1,39 @@
+Geliştirilecek Servisler
+-----------------------------
+Servis 1
+SanatciEkle(int albumAdet)
+Veritabanına bir sanatçı, ona ait albümler ve albümlerin içindeki şarkıları ekler.
+- Ad 5 karakter uzunluğunda rastgele bir string olmalı
+- Kuruluş tarihi rastgele belirlenmeli
+- albumAdet değişkeninde belirtilen sayıda albüm sanatçı için eklenmeli
+- Her albümün adı 10 karakter uzunluğunda rastgele bir string olmalı
+- Her albümün çıkış tarihi rastgele olmalı
+- Her albüm içerisinde minimum 6, maksimum 15 şarkı olmalı
+- Her şarkının adı 15 karakter uzunluğunda rastgele bir string olmalı
+- Eklediği sanatçının ID değerini döner
+
+Servis 2
+CalmaListesiOlustur(int sarkiAdet, string ad)
+Veritabanına bir çalma listesi ekler ve istenilen sayıda şarkıyı çalma listesine ekler
+- Eğer şarkı adedi 0 ise veya ad boş ise hata vermeli
+- Eğer yeni listeye eklenmesi istenen şarkı adedi veritabanındaki toplam şarkı adedinden yüksek ise hata dönmeli
+- Veritabanına yeni bir çalma listesi ekler, ad kolonu parametredeki ad değeri olur
+- İstenilen adette şarkıyı, veritabanından rastgele seçerek, bu çalma listesine ekler
+- Eklediği çalma listesinin ID değerini döner
+
+Servis 3
+CalmaListesiYenile(int calmaListesiId, int yeniSarkiAdet)
+Veritabanındaki bir çalma listesinin içindeki şarkıları temizler ve listeye istenilen sayıda yeni şarkı ekler.
+- ID'si verilen çalma listesi üzerinde işlem yapar.
+- Listede o anda mevcut tüm şarkıları listeden çıkartır.
+- Listeye önceden bulunmayan yeni şarkıları, istenilen adette ekler. 
+
+Servis 4
+SanatciBazliIstatistikAl()
+Sanatçı bazlı istatistikleri döner.
+- Sanatçı adı, toplam albüm adedi, albümlerindeki toplam şarkı adedi kolonlarından oluşan bir tablo oluşturur
+- Tablo en çok şarkı adedinden en az şarkı adedine sıralıdır
+- Tabloyu döner
+
+
+
